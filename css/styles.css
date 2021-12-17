@@ -1,0 +1,126 @@
+/*
+Autho : Vijith
+Date:  16/12/2021;
+*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+.banner-bg{
+	background-color: #333;
+	height: 60vh;
+}
+
+.banner-bg div{
+
+	width: 70%;
+	color: #fff;
+	margin: 0 auto;
+	position: relative;
+	top: 120px;
+	text-align: center;
+
+}
+
+.banner-bg h2{
+	font-size: 40px;
+	margin-bottom: 25px;
+}
+
+.banner-bg p {
+	font-size: 24px;
+	margin-bottom: 35px;
+	
+}
+
+.btn{
+	text-decoration: none;
+	font-size: 25px;
+	border: 1px solid #00f;
+	padding:20px;
+
+}
+
+.section2-bg{
+	height: 40vh;
+}
+
+.section2-bg div{
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 80px;
+}
+
+.section2-bg h2{
+	font-size: 35px;
+	margin-bottom: 15px;
+}
+
+.section2-bg p{
+	font-size: 20px;
+
+}
+
+.section3-bg{
+	background-color: #333;
+	height: 60vh;
+}
+
+.img-row{
+	display:flex;
+}
+
+.img-col{
+	width: 25%;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 70px;
+	background-color: #fff;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+
+.img-fluid{
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+}
+
+.footer{
+
+}
+.footer-row{
+	display: flex;
+	height: 60vh;
+	text-align: center;
+
+}
+
+.contactus{
+	
+	background-color: #0d6efd;
+	padding:20px ;
+}
+
+.aboutus{
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+.footer-row h2{
+	font-size: 35px;
+	margin-top: 120px;
+}
+.footer-row p{
+	margin: 10px 0;
+	font-size: 22px;
+}
